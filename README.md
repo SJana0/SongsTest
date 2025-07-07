@@ -6,5 +6,5 @@
 
 ## Содержание
 
-1. ![Страница со списком песен](#страница-со-списком-песен)
-2. ![Страница с текстами песен](#страница-с-текстами-песен)
+1. ![Страница со списком песен](https://github.com/SJana0/SongsTest/blob/main/project/preview1.png)
+2. ![Страница с текстами песен](https://github.com/SJana0/SongsTest/blob/main/project/preview2.png)
