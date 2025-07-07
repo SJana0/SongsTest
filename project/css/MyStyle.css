@@ -1,0 +1,34 @@
+body, html {font-family:'Courier New', Courier, monospace; font-size: 16px; color:aliceblue}
+*{ margin: 10px;}
+h1{font-size: 250%; text-shadow: 3px 2px #2a72ee;}
+h2{text-decoration: underline;}
+h1,h2 {color: aliceblue; font-family: Verdana, Geneva, Tahoma, sans-serif; margin-bottom: 40px;}
+
+.content{ padding: 40px; margin: 20px; background-color: #1c1c229c;  border-radius: 20px;box-shadow: 0 0 10px 2px #131316;}
+/*.content:hover{background-color: #2a72ee;}*/
+
+.jap{font-family: Sawarabi;}
+.engl{font-family:'Courier New', Courier, monospace}
+.song{text-align:justify; width: 30%;  margin: 0 auto;}
+
+a:link {text-decoration:underline; color: #4ab0ff;}
+a:visited {text-decoration:none; color: rgb(117, 117, 129)}
+a:active {text-decoration:none; color:maroon}
+a:hover {text-decoration:underline; color:rgb(12, 105, 175);}
+
+#indexup{vertical-align: super;}
+
+@font-face {
+    font-family: "Sawarabi";
+    src: url("SawarabiGothic-Regular.ttf");
+  }
+
+  img:hover{opacity: 0.4;}
+  img{display: block; margin-left: auto;margin-right: auto; margin-bottom:30px}
+  #imgalbum{box-shadow: 0 0 10px 2px #2a72ee; padding: 10px;}
+  html{
+    height: 100%;
+    margin: 0;
+    background-color: #222228;
+    background-image: url(file:///C:/Users/%D0%AF%D0%BD%D0%B0/Desktop/Web%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/laba3/v830-sasi-29.jpg);
+    background-size:cover; }
